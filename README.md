@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ronak Nambiar
 - 👀 I’m interested in Cybersecurity and the Internet of Things!
 - 🌱 I’m currently learning Kali Linux and VM's along with Java.
-- 💞️ I’m looking to collaborate on Linux projects and web desging!
+- 💞️ I’m looking to collaborate on Linux projects and websites!
 - 📫 How to reach me : I haven't figured this out yet
 
 <!---
